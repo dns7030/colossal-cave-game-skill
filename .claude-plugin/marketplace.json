@@ -1,0 +1,19 @@
+{
+  "name": "colossal-cave-game-skill",
+  "owner": {
+    "name": "vibecoding"
+  },
+  "metadata": {
+    "description": "Colossal Cave Adventure — the 1977 classic text adventure game skill for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "text-rpg",
+      "description": "Play Colossal Cave Adventure — the 1977 classic that invented the text adventure genre. Explore 130+ rooms, collect 15 treasures, solve legendary puzzles. Full save/load support.",
+      "source": "./",
+      "strict": false,
+      "skills": ["."]
+    }
+  ]
+}
